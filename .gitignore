@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SagaOrchestrationDemo/.vs
+/SagaOrchestrationDemo/bin/Debug/net8.0
+/SagaOrchestrationDemo/obj
+/SagaOrchestrationDemo/Shared/bin/Debug/net8.0
+/SagaOrchestrationDemo/Shared/obj
