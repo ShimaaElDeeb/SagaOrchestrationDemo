@@ -7,3 +7,5 @@
 /SagaOrchestrationDemo/obj
 /SagaOrchestrationDemo/Shared/bin/Debug/net8.0
 /SagaOrchestrationDemo/Shared/obj
+/SagaOrchestrationDemo/OrderService/bin/Debug/net8.0
+/SagaOrchestrationDemo/OrderService/obj

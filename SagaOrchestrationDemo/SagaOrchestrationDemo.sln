@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{27B9EB6F-D9DD-4CFB-A23D-3EAC6EC3B99A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{74BF6A39-47C1-4B41-930F-0901E592A09D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{27B9EB6F-D9DD-4CFB-A23D-3EAC6EC3B99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27B9EB6F-D9DD-4CFB-A23D-3EAC6EC3B99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27B9EB6F-D9DD-4CFB-A23D-3EAC6EC3B99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BF6A39-47C1-4B41-930F-0901E592A09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BF6A39-47C1-4B41-930F-0901E592A09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BF6A39-47C1-4B41-930F-0901E592A09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BF6A39-47C1-4B41-930F-0901E592A09D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
