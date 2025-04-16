@@ -9,3 +9,5 @@
 /SagaOrchestrationDemo/Shared/obj
 /SagaOrchestrationDemo/OrderService/bin/Debug/net8.0
 /SagaOrchestrationDemo/OrderService/obj
+/SagaOrchestrationDemo/SagaOrchestrator/bin/Debug/net8.0
+/SagaOrchestrationDemo/SagaOrchestrator/obj
